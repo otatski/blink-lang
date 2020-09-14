@@ -1,0 +1,14 @@
+fn dosomething()
+{
+    print("This is our fn calling!");
+};
+
+dosomething();
+dosomething();
+dosomething();
+dosomething();
+dosomething();
+dosomething();
+dosomething();
+
+yo();

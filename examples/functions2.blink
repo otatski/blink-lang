@@ -1,0 +1,13 @@
+fn doSomething(x, y) {
+    print(x);
+    print(y);
+};
+
+doSomething("blink", "world");
+
+
+fn sayYourName(name) {
+    print(name);
+};
+
+sayYourName("john doe");
